@@ -18,7 +18,7 @@ The dataset includes various attributes related to customer transactions and dem
 ## Tools Used
 
 - **Power BI**: For data visualization and dashboard creation.
-- **Excel**: For data cleaning and preprocessing (if applicable).
+- **Excel**: For data cleaning and preprocessing.
 
 ## Insights
 
